@@ -1,0 +1,17 @@
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Release\RemitaBiller.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Release\RemitaBiller.pdb
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Release\Newtonsoft.Json.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Release\Newtonsoft.Json.xml
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Release\RemitaBillingGatewayNuGet.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Release\RemitaBillingGatewayNuGet.csproj.CopyComplete
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Release\RemitaBiller.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Release\RemitaBiller.pdb
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Release\RemitaBillingGatewayNuGet.csprojAssemblyReference.cache
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\RemitaBiller.dll
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\RemitaBiller.pdb
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\Newtonsoft.Json.dll
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\Newtonsoft.Json.xml
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGatewayNuGet.csproj.CoreCompileInputs.cache
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGatewayNuGet.csproj.CopyComplete
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.dll
+C:\Projects\RemitaMicroServices\RMS2\RemitaSDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.pdb

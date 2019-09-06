@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RemitaBiller</id>
+    <version>1.0.1908211733</version>
+    <title>RemitaBiller</title>
+    <authors>SystemSpecs</authors>
+    <owners>SystemSpecs</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This SDK outlines the Biller methods offered by SystemSpecs. *Partners can now integrate much easier and faster to Remita for facilitating customer payments to billers on their platform.</description>
+    <copyright>Copyright ©  2019</copyright>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="12.0.2" />
+    </dependencies>
+  </metadata>
+</package>

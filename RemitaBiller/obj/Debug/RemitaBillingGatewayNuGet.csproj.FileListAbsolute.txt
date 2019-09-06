@@ -1,0 +1,9 @@
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Debug\RemitaBiller.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Debug\RemitaBiller.pdb
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Debug\RemitaBillingGatewayNuGet.csprojAssemblyReference.cache
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Debug\RemitaBillingGatewayNuGet.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Debug\RemitaBillingGatewayNuGet.csproj.CopyComplete
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Debug\RemitaBiller.dll
+C:\Users\DAVID\Dropbox\VisualStudioWorkspace\RemitaBiller\obj\Debug\RemitaBiller.pdb
