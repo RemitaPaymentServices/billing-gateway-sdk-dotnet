@@ -40,7 +40,6 @@ Before calling the Biller methods, the SDK needs to be initialized with the Cred
         String connectionTimeOut = "15000";
         
     Credentials credentials = new Credentials();
-    credentials = new Credentials();
     credentials.publicKey = publicKey;
     credentials.secretKey = secretKey;
     credentials.url = url;
