@@ -15,7 +15,7 @@ The process involves your customers selecting a biller to pay via your platform.
 ## Installing the SDK
 To install the billing-gateway-sdk-dotnet from package, run the following command in the 'NuGet Package Manager Console'.
 
-PM> Install-Package RemitaBillingGateway -Version 1.0.xxxx
+```java PM> Install-Package RemitaBillingGateway -Version 1.0.xxxx```
 
 ## CREDENTIALS
 Before calling the Biller methods, the SDK needs to be initialized with the Credentials object, see below:
