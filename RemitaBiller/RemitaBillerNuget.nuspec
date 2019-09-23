@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
-    <id>RemitaBiller</id>
+    <id>RemitaBillingGateway</id>
     <version>1.0.1908211733</version>
-    <title>RemitaBiller</title>
+    <title>RemitaBillingGateway</title>
     <authors>SystemSpecs</authors>
     <owners>SystemSpecs</owners>
+    <iconUrl>https://en.gravatar.com/userimage/172056629/6c0962d37f6f263cc7c673010be56540.png</iconUrl>
+    <repository type="git" url="https://github.com/RemitaNet/billing-gateway-sdk-dotnet"/>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This SDK outlines the Biller methods offered by SystemSpecs. *Partners can now integrate much easier and faster to Remita for facilitating customer payments to billers on their platform.</description>
+    <description>
+      .NET SDK for Remita Billers simple API's.
+    </description>
     <copyright>Copyright ©  2019</copyright>
     <dependencies>
       <dependency id="Newtonsoft.Json" version="12.0.2" />

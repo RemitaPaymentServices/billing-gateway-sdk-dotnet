@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitaBillingGateway", "RemitaBillingGateway.csproj", "{B76AB335-320B-4922-B1B9-279E28D18430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76AB335-320B-4922-B1B9-279E28D18430}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B76AB335-320B-4922-B1B9-279E28D18430}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B76AB335-320B-4922-B1B9-279E28D18430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76AB335-320B-4922-B1B9-279E28D18430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B267F2-F1AC-4346-A885-2D2515CE1AE3}
+	EndGlobalSection
+EndGlobal

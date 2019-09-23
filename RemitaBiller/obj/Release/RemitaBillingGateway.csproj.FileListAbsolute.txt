@@ -1,0 +1,9 @@
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\RemitaBiller.dll
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\RemitaBiller.pdb
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\Newtonsoft.Json.dll
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\bin\Release\Newtonsoft.Json.xml
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGateway.csproj.CoreCompileInputs.cache
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGateway.csproj.CopyComplete
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.dll
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.pdb
+C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGateway.csprojAssemblyReference.cache

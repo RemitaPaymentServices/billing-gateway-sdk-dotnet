@@ -4,6 +4,12 @@ using System.Text;
 
 namespace RemitaBillerBillingGateway.Model
 {
+    public class ErrorResponse
+    {
+        public string responseCode { get; set; }
+        public string responseMsg { get; set; }
+    }
+
     /// <summary>
     /// API Config Object
     /// </summary>
