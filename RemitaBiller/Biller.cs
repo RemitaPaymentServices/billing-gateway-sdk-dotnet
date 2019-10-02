@@ -346,15 +346,6 @@ namespace RemitaBillerBillingGateway
                 errorResponse.responseMsg = "Missing transactionId parameter";
                 return errorResponse;
             }
-
-            //if (credentials.timeOut <= 0)
-           // {
-            //    errorResponse = new ErrorResponse();
-             //   errorResponse.responseCode = "21";
-              //  errorResponse.responseMsg = "Missing timeOut parameter";
-               // return errorResponse;
-           // } 
-            
             return errorResponse;
         }
     }
