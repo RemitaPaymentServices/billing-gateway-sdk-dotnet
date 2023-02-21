@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
 namespace RemitaBillerBillingGateway.Model
 {
     public class ErrorResponse
@@ -129,6 +131,7 @@ namespace RemitaBillerBillingGateway.Model
     /// </summary>
     public class GetRRRDetailsResponseData
     {
+
         public string rrr { get; set; }
         public double amountDue { get; set; }
         public double chargeFee { get; set; }

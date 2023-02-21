@@ -2,6 +2,7 @@
 This SDK Outlines the Biller methods available on Remita. This document describes the methods offered by the Software Development Kit (SDK) through which SystemSpecs’ partners can integrate much easier and faster to Remita for facilitating customer payments to billers on their platform.
 
 
+
 ## OVERVIEW 
 Integrating to Remita for Biller payments SDK enables your customers make payments to billers on Remita through your platform. This provides you with the capability to offer your customers access to the vast array of billers and merchants, including schools, churches, service providers and the Federal Government ministries, departments and agencies (MDAs) available on Remita to purchase and subscribe to their various products and services.
 
@@ -12,6 +13,8 @@ The process involves your customers selecting a biller to pay via your platform.
  Your public and secret keys are located at the Billing page at your profile. After you login, click ‘Setup Billing’ at your dashboard >> click ‘Proceed’ on the ‘Yes’ option for the integration question that comes up >> to display the Public/Secret key.
 - .NET 2.0 or later
 - Visual Studio 2012 or later
+
+
 
 ## Installing the SDK
 To install the billing-gateway-sdk-dotnet from package, run the following command in the 'NuGet Package Manager Console'.
@@ -61,6 +64,8 @@ Before calling the Biller methods, the SDK needs to be initialized with the Cred
 
 ### 1. GetBillers()
 This returns a list of the billers, merchants and MDAs available on Remita.
+
+
 
 ```java
 GetBillersResponse getBillerResponse = Biller.GetBillers();
