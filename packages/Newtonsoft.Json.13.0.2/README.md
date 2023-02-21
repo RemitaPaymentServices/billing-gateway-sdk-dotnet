@@ -23,6 +23,9 @@ string json = JsonConvert.SerializeObject(product);
 // }
 ```
 
+
+
+
 ## Deserialize JSON
 
 ```csharp
