@@ -64,6 +64,8 @@ Before calling the Biller methods, the SDK needs to be initialized with the Cred
 ### 1. GetBillers()
 This returns a list of the billers, merchants and MDAs available on Remita.
 
+
+
 ```java
 GetBillersResponse getBillerResponse = Biller.GetBillers();
 ```
