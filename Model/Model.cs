@@ -6,13 +6,23 @@ namespace RemitaBillerBillingGateway.Model
 {
     public class ErrorResponse
     {
-        public string responseCode { get; set; }
-        public string responseMsg { get; set; }
+        public string responseCode {
+            get; set; }
+        public string responseMsg {
+            get; set; }
     }
 
     /// <summary>
     /// API Config Object
     /// </summary>
+    /// 
+
+
+
+
+
+
+
     public class Credentials
     {
        public string publicKey { get; set; }
@@ -106,7 +116,8 @@ namespace RemitaBillerBillingGateway.Model
         public List<GetCustomFieldsResponseData> responseData { get; set; }
         public string responseMsg { get; set; }
         public object appVersionCode { get; set; }
-        public bool acceptPartPayment { get; set; }
+        public bool acceptPartPayment {
+            get; set; }
         public bool fixedPrice { get; set; }
         public double fixedAmount { get; set; }
         public string currency { get; set; }

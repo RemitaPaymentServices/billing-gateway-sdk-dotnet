@@ -7,3 +7,12 @@ C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBi
 C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.dll
 C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBiller.pdb
 C:\Projects\IPG_SDK\billing-gateway-sdk-dotnet\RemitaBiller\obj\Release\RemitaBillingGateway.csprojAssemblyReference.cache
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\bin\Release\RemitaBiller.dll
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\bin\Release\RemitaBiller.pdb
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\bin\Release\Newtonsoft.Json.dll
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\bin\Release\Newtonsoft.Json.xml
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\obj\Release\RemitaBillingGateway.csproj.AssemblyReference.cache
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\obj\Release\RemitaBillingGateway.csproj.CoreCompileInputs.cache
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\obj\Release\RemitaBillingGateway.csproj.CopyComplete
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\obj\Release\RemitaBiller.dll
+C:\Users\TOCHUKWU-AGADA\Source\Repos\billing-gateway-sdk-dotnet\obj\Release\RemitaBiller.pdb
